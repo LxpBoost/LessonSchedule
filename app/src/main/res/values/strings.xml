@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LessonSchedule</string>
+    <string name="monday">周一</string>
+    <string name="tuesday">周二</string>
+    <string name="wednesday">周三</string>
+    <string name="thursday">周四</string>
+    <string name="friday">周五</string>
+    <string name="saturday">周六</string>
+    <string name="sunday">周日</string>
+    <string name="nothing">继续加油！</string>
+
+    <string name="timeClass1">1\n08:30\n09:15</string>
+    <string name="timeClass2">2\n09:20\n10:05</string>
+    <string name="timeClass3">3\n10:25\n11:10</string>
+    <string name="timeClass4">4\n11:15\n12:00</string>
+    <string name="timeClass5">5\n14:00\n14:45</string>
+    <string name="timeClass6">6\n14:50\n15:35</string>
+    <string name="timeClass7">7\n15:55\n16:40</string>
+    <string name="timeClass8">8\n16:45\n17:30</string>
+    <string name="timeClass9">9\n19:00\n19:45</string>
+    <string name="timeClass10">10\n19:50\n20:35</string>
+    <string name="timeClass11">11\n20:40\n21:25</string>
+    <string name="timeClass12">12\n21:30\n22:15</string>
+    <string name="timeClass13">13\n21:10\n21:55</string>
+    <string name="第一周">第一周</string>
+    <string name="todo">TODO</string>
+    <string name="大三下">smester</string>
+    <string name="text_hint">记录美好生活~</string>
+    <string name="text_encourage">继续加油！</string>
+
+
+</resources>
